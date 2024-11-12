@@ -1,0 +1,35 @@
+.container {
+    background-color: rgb(165, 95, 95);
+    width: 1000px;
+    margin: 30px auto;
+  }
+  
+  .item {
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+
+  .item--1 {
+    background-color: orange;
+  }
+
+  .item--2 {
+    background-color: green;
+  }
+
+  .item--3 {
+    background-color: Violet;
+  }
+
+  .item--4 {
+    background-color: pink;
+  }
+
+  .item--5 {
+    background-color: blue;
+  }
+  
+  .item--6 {
+    background-color: brown;
+  }
